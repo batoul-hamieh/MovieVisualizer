@@ -53,7 +53,7 @@ This project involves scraping user reviews from Letterboxd for 50 popular movie
 - `movies_info.csv`: Contains movie titles to be scraped and each movie's metadata.
 - `analyzed_reviews_with_id.csv`: Output file storing collected, preprocessed, and analyzed reviews.
 
-├── requirements.txt/ 
+├── requirements.txt
 
 └── README.md
 
